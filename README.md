@@ -1,5 +1,5 @@
 # Programming In Prolog
-#### Alex Kolarski's Lecture notes
+#### Lecture notes
 
 These lecture notes are based on the awsome 4 part video about prolog from The Simple Engineer - [Prolog Programming](https://www.youtube.com/playlist?list=PLVmRRBrc2pRCWtYk752jCIfhD8GmoYfc_)
 
