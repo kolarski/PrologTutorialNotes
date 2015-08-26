@@ -28,8 +28,8 @@ They extend the facts and their relationship. Infer facts from other facts
 
 ```
 likes(ryan, brittney).
-likes (brittney, ryan).
-likes (dan, josh).
+likes(brittney, ryan).
+likes(dan, josh).
 ```
 
 Do they date ? So we are going to create a rule.
