@@ -20,9 +20,7 @@
 
 * `fat(jonny).` <- *every expression or fact is ended with a dot*
 * `brown(dog).`
-* `likes(suzie, Bobby).`
-
-### The number of arguments is called Arity
+* `likes(suzie, Bobby).` <- *The number of arguments is called Arity*
 
 ## Rules: 
 They extend the facts and their relationship. Infer facts from other facts
