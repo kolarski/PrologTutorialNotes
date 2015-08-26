@@ -60,6 +60,6 @@ cource (
 
 ## Workfiles
 
-* workfiles/part2-1.pl
-* workfiles/part2-2.pl
-* workfiles/part2-3.pl
+* [workfiles/part2-1.pl](workfiles/part2-1.pl)
+* [workfiles/part2-2.pl](workfiles/part2-2.pl)
+* [workfiles/part2-3.pl](workfiles/part2-3.pl)
