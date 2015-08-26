@@ -37,9 +37,9 @@ Do they date ? So we are going to create a rule.
 `:-` - *if only if*
 
 ```
-dating (X, Y) :-
-	likes (X,Y),
-	likes (Y, X).
+dating(X, Y) :-
+	likes(X,Y),
+	likes(Y, X).
 ```
 
 ## Table of operators:
