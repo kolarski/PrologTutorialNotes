@@ -39,6 +39,8 @@ ate2(Person, grilledcheese) :-
 ```
 This is a new `Person`
 
+[workfiles/part3-2.pl](workfiles/part3-2.pl)
+
 ## Operators & Arithmetic Functions
 
 Prolog weaknes is in the ability to manipulate numbers.
@@ -87,6 +89,8 @@ avg_temp_cels(Location, C_Temp) :-
 	avg_temp(Location, F_Temp), 
 	C_Temp is (F_Temp - 32) * 5//9.
 ```
+[workfiles/part3-3.pl](workfiles/part3-3.pl)
+
 
 Queries: 
 
@@ -108,3 +112,5 @@ avg_temp_cels(sf, Cels).
 ## Workfiles
 
 * [workfiles/part3-1.pl](workfiles/part3-1.pl)
+* [workfiles/part3-2.pl](workfiles/part3-2.pl)
+* [workfiles/part3-3.pl](workfiles/part3-3.pl)
