@@ -57,7 +57,7 @@ not | not
 
 ## Queries
 
-Do dan and sally are dating ?
+Are dan and sally dating ?
 
 ```
 likes(dan, sally).
