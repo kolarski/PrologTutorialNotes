@@ -10,7 +10,7 @@
 
 ## Convert to predicate logic
 
-**Predicates:**
+## Predicates:
 
 	1. fat
 	2. brown
