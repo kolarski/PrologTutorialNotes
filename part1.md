@@ -3,7 +3,7 @@
 ## Video
 [![Programming In Prolog Part 1 - Facts, Rules and Queries](http://img.youtube.com/vi/gJOZZvYijqk/0.jpg)](http://www.youtube.com/watch?v=gJOZZvYijqk "Programming In Prolog Part 1 - Facts, Rules and Queries")
 
-## Facts: 
+## Textual Facts: 
 	1. Jonny is fat
 	2. The dog is brown
 	3. Suzie likes Bobby
@@ -16,6 +16,7 @@
 	2. brown
 	3. likes
 
+## Facts
 
 * `fat(jonny).` <- *every expression or fact is ended with a dot*
 * `brown(dog).`
