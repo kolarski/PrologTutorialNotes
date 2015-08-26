@@ -23,15 +23,15 @@
 * `likes(suzie, Bobby).` <- *The number of arguments is called Arity*
 
 ## Rules: 
-They extend the facts and their relationship. Infer facts from other facts
+They extend the facts and their relationship. Infer facts from other facts.
+If we have the following setup:
 
 ```
 likes(ryan, brittney).
 likes(brittney, ryan).
 likes(dan, josh).
 ```
-
-Do they date ? So we are going to create a rule.
+We can ask do they date ? So we are going to create a rule.
 
 `:-` - *if only if*
 
