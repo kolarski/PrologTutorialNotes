@@ -13,8 +13,11 @@
 **Predicates:**
 
 1.fat
+
 2.brown
+
 3.likes
+
 
 * `fat(jonny).` <- every expression/fact is ended with a dot
 * `brown(dog).`
