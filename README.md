@@ -1,7 +1,7 @@
 # Programming In Prolog
 #### Lecture notes
 
-These lecture notes are based on the awsome 4 part video about prolog from The Simple Engineer - [Prolog Programming](https://www.youtube.com/playlist?list=PLVmRRBrc2pRCWtYk752jCIfhD8GmoYfc_)
+These lecture notes are based on the awsome 4 part video about Prolog from The Simple Engineer - [Prolog Programming](https://www.youtube.com/playlist?list=PLVmRRBrc2pRCWtYk752jCIfhD8GmoYfc_)
 
 
 
