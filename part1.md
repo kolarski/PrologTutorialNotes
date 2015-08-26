@@ -57,6 +57,19 @@ not | not
 
 ## Queries
 
+Do dan and sally are dating ?
+
+```
+likes(dan, sally).
+```
+
+Are josh and brittney friends ? 
+
+```
+friendship(josh, brittney).
+```
+
+
 ## Workfiles
 
 * [workfiles/part1.pl](workfiles/part1.pl)
