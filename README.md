@@ -29,6 +29,9 @@ There is only one criminal and the rest are telling the truth.
 Find who the criminal is. 
 ```
 
+#### Solution
+* [Solution](logic_problems/criminal.pl)
+
 ### The Graph coloring problem
 
 
@@ -36,12 +39,15 @@ Given a map divided into regions, can you color the map using a defined amount o
 [Source](https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/)
 ![Image](https://bernardopires.com/wp-content/uploads/2013/09/map_coloring_germany.png)
 
+#### Solution
+* [Solution](logic_problems/coloring.pl)
+
 #### Query
 ```
 germany(SH, MV, HH, HB, NI, ST, BE, BB, SN, NW, HE, TH, RP, SL, BW, BY).
 ```
 
-* [Solution](logic_problems/coloring.pl)
+
 
 
 ## Resourses: 
