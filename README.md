@@ -9,3 +9,15 @@ These lecture notes are based on the awsome 4 part video about Prolog from The S
 * [Part 2 - Syntax, Questions and Structs](part2.md)
 * [Part 3 - Scope, Structures and Arithmetic Operations](part3.md)
 * [Part 4 - Lists, Pairs and the Member Function](part4.md)
+
+
+## Logic Problems & Their solutions
+
+### The Criminal
+
+* A says: "It's not me"
+* B says: "It's D"
+* C says: "It's B"
+* D says: "It's not me
+
+* [Solution](logic_problems/criminals.pl)
