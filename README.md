@@ -11,13 +11,18 @@ These lecture notes are based on the awsome 4 part video about Prolog from The S
 * [Part 4 - Lists, Pairs and the Member Function](part4.md)
 
 
-## Logic Problems & Their solutions
+## Logic Problems & their solutions in Prolog
 
 ### The Criminal
 
-* A says: "It's not me"
-* B says: "It's D"
-* C says: "It's B"
-* D says: "It's not me
+```
+A says: "It's not me"
+B says: "It's D"
+C says: "It's B"
+D says: "It's not me
+
+There is only one criminal and the rest are telling the truth.
+Find who the criminal is. 
+```
 
 * [Solution](logic_problems/criminals.pl)
