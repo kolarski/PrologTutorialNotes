@@ -30,7 +30,7 @@ Find who the criminal is.
 ```
 
 #### Solution
-* [Solution](logic_problems/criminal.pl)
+* [Solution](logic_problems/criminals.pl)
 
 ### The Graph coloring problem
 
